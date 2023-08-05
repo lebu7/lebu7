@@ -24,10 +24,10 @@
 
 - 🌱 Currently learning Java programming 😎
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2022 goals: Make project and contribute to Open Source
-- ⚡ Fun fact: I love to make photos and videos
-- 🔭 I just launched my portfolio: **[https://lebu7.github.io/](https://lebu7.github.io/)**
-- 💼 See my experience over the year: **[Resume](https://drive.google.com/file/d/1siE5TzaPrGXXj3-6uAdBASYcOoPXM7a7/view?usp=drive_link)**
+- 🥅 Goals: Make project and contribute to Open Source
+- ⚡ Fun fact: I love working out protoypes
+- 🔭 Checkout my portfolio: **[https://lebu7.github.io/](https://lebu7.github.io/)**
+- 💼 See my experience over the years: **[Resume](https://drive.google.com/file/d/1siE5TzaPrGXXj3-6uAdBASYcOoPXM7a7/view?usp=drive_link)**
 
   <br />
 
@@ -44,7 +44,7 @@
 
 ### Used Tools:
 
-[![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,atom,arduino,raspberrypi)]()
+[![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,atom,arduino,raspberrypi,codepen)]()
 
 
 <br />
