@@ -14,7 +14,7 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=lebu7.visitor-badge.issue.1&title=Github%50Visitors)
 ![Github Followers](https://img.shields.io/github/followers/lebu7?label=Github%50Connection&style=flat)
-![Twitter Followers](https://img.shields.io/twitter/followers/@Lebu_Ayiga?label=Twitter&logo=twitter&style=for-the-badge&color=blue%50Connection&style=flat)
+![Twitter Followers](https://img.shields.io/twitter/follow/@Lebu_Ayiga?label=Twitter&logo=twitter&style=for-the-badge&color=blue%50Connection&style=flat)
 
 
 <br/>
