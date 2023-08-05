@@ -1,6 +1,6 @@
 
 
-# Hi, Myself <a href="https://lebu7.github.io/" target="_blank">Sanajit Jana</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, Myself <a href="https://lebu7.github.io/" target="_blank">Lebu Ayiga</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Full-Stack Web Developer, from Nairobi, Kenya.!
 
@@ -31,13 +31,15 @@
   <br />
 
 ### Familiar Tech Stack:
-
 <!-- coding boy -->
-<img width="40%" align="right" alt="Coding Boy" src="https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=true" />
+<img width="40%" align="right" alt="Coding Boy" src="" />
 
 <!-- language -->
 
-[![](https://skillicons.dev/icons?i=java,spring,angular,php,mysql,js,html,css,bootsrap,c,jquery,laravel,nodejs,php,py,react,redux,vue)]()
+[![](https://skillicons.dev/icons?i=java,spring,angular,php,mysql,js,html,css,)]()
+<br>
+[![](https://skillicons.dev/icons?i=bootsrap,c,jquery,laravel,nodejs,php,py,react,redux,vue)]()
+
 
 <br/>
 
@@ -51,7 +53,8 @@
 ### Interests:
 
 - Explore new Tech 💻
-- Travel & Ride 🌎
+- Prototyping 🕹
+- Gamming 🎮
 
 
 <!-- ### My GitHub Stats:
@@ -66,3 +69,4 @@
 </p> -->
 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
+ß
