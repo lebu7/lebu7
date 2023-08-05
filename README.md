@@ -61,7 +61,7 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebu7&theme=radical" />
-  <img width="780em"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lebu7&theme=radical" />
+  <img width="480em"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lebu7&theme=radical" />
 </p>
 
 <p>
