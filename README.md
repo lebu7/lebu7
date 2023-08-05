@@ -32,7 +32,7 @@
 
 ### Familiar Tech Stack:
 <!-- coding boy -->
-<img width="40%" align="right" alt="Coding Boy" src="" />
+<img width="40%" align="right" alt="Coding Boy" src="https://github.com/lebu7/Lebu/blob/main/coding.gif" />
 
 <!-- language -->
 
