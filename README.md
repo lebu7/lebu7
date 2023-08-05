@@ -66,7 +66,7 @@
 
 <p>
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=lebu7&theme=radical"/>  
-  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=radical&theme=radical" />
+  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lebu7&theme=radical" />
 </p>
 
 <!-- ![](./profile-3d-contrib/profile-south-season-animate.svg) -->
