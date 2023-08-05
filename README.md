@@ -2,7 +2,7 @@
 
 # Hi, Am <a href="https://lebu7.github.io/" target="_blank">Lebu Ayiga</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a Full-Stack Web Developer, from Nairobi, Kenya.!
+## I'm a Full-Stack Web Developer, from Nairobi, Kenya.
 
 <div align="left">
 <a href="https://lebu7.github.io/""><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-008000.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
@@ -60,7 +60,7 @@
 ### My GitHub Stats:
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebu7&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebu7&theme=onedark" />
 </p>
 
 <p>
