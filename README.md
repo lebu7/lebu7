@@ -60,7 +60,7 @@
 ### My GitHub Stats:
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebu7&theme=cobalt" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebu7&theme=synthwave" />
 </p>
 
 <p>
