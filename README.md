@@ -61,9 +61,6 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebu7&theme=radical" />
-</p>
-
-<p>
   <img src="https://activity-graph.herokuapp.com/graph?username=lebu7&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
 </p>
 
