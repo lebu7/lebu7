@@ -8,6 +8,7 @@
 <a href="https://lebu7.github.io/""><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-008000.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/lebu-ayiga-1b93261b6/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:lebu.a.7@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://twitter.com/Lebu_Ayiga"><img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </div>
 
 <br/>
@@ -45,7 +46,7 @@
 
 ### Used Tools:
 
-[![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,atom,codepen,arduino,raspberrypi)]()
+[![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,atom,codepen,arduino,raspberrypi&perline=8)]()
 
 
 <br /> <br />
@@ -57,7 +58,7 @@
 - Gamming 🎮
 
 
-<!-- ### My GitHub Stats:
+### My GitHub Stats:
 
 <p>
   <img src="https://activity-graph.herokuapp.com/graph?username=lebu7&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
@@ -66,6 +67,6 @@
 <p>
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=lebu7&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>  
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lebu7&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</p> -->
+</p>
 
 <!-- ![](./profile-3d-contrib/profile-south-season-animate.svg) -->
