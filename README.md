@@ -15,7 +15,7 @@
 
 ![visitor badge](https://komarev.com/ghpvc/?username=lebu7)
 ![Github Followers](https://img.shields.io/github/followers/lebu7?label=Github%20Connections&color=%2300FF7F)
-![Github Stars](https://img.shields.io/github/stars/lebu7?label=Github%20Stars&color=%#FF4433)
+![Github Stars](https://img.shields.io/github/stars/lebu7?label=Github%20Stars&color=%FF4433)
 
 
 
