@@ -37,7 +37,6 @@
 <!-- language -->
 
 [![](https://skillicons.dev/icons?i=java,spring,angular,php,mysql,js,html,css,)]()
-<br>
 [![](https://skillicons.dev/icons?i=bootsrap,c,jquery,laravel,nodejs,php,py,react,redux,vue)]()
 
 
