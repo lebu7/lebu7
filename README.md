@@ -26,7 +26,7 @@
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 Interested in any developer work 😎
-- 👯 I’m looking to collaborate with other developer
+- 👯 I’m looking to collaborate with other developers
 - 🥅 Goals: Make project and contribute to Open Source
 - ⚡ Fun fact: I love working out protoypes
 - 🔭 Checkout my portfolio: **[https://lebu7.github.io/](https://lebu7.github.io/)**
