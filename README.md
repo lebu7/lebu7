@@ -37,7 +37,7 @@
 
 <!-- language -->
 
-[![](https://skillicons.dev/icons?i=html,css,bootsrap,js,jquery,mysql,react,redux,vue,nodejs,angular,php,laravel,c,java,Spring,py&perline=8)]()
+[![](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,mysql,react,redux,vue,nodejs,angular,php,laravel,c,java,Spring,py&perline=8)]()
 
 
 
