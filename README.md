@@ -15,7 +15,7 @@
 
 ![visitor badge](https://komarev.com/ghpvc/?username=lebu7)
 ![Github Followers](https://img.shields.io/github/followers/lebu7?label=Github%50Connection&style=flat)
-![Twitter Followers](https://img.shields.io/twitter/follow/@Lebu_Ayiga?label=Twitter&logo=twitter&style=for-the-badge&color=blue%50Connection&style=flat)
+![Twitter Followers](https://img.shields.io/twitter/follow/Lebu_Ayiga)
 
 
 
