@@ -22,7 +22,7 @@
 
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 Currently learning Java programming 😎
+- 🌱 Interested in any developer work 😎
 - 👯 I’m looking to collaborate with other developer
 - 🥅 Goals: Make project and contribute to Open Source
 - ⚡ Fun fact: I love working out protoypes
@@ -44,7 +44,7 @@
 
 ### Used Tools:
 
-[![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,atom,arduino,raspberrypi,codepen)]()
+[![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,atom,codepen,arduino,raspberrypi)]()
 
 
 <br />
