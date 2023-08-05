@@ -30,19 +30,17 @@
 - 💼 See my experience over the year: **[Resume](https://drive.google.com/file/d/1siE5TzaPrGXXj3-6uAdBASYcOoPXM7a7/view?usp=drive_link)**
 
   <br />
-<div>
+
 ### Familiar Tech Stack:
-<div style="float:right">
 <!-- coding boy -->
 <img width="40%" align="right" alt="Coding Boy" src="https://github.com/lebu7/Lebu/blob/main/coding.gif" />
-</div>
-<!-- language -->
-<div style="float:left">
-[![](https://skillicons.dev/icons?i=java,spring,angular,php,mysql,js,html,css,)]()
-[![](https://skillicons.dev/icons?i=bootsrap,c,jquery,laravel,nodejs,php,py,react,redux,vue)]()
-</div>
 
-<div>
+<!-- language -->
+
+[![](https://skillicons.dev/icons?i=java,spring,angular,php,mysql,js,html,css,vue,)]()
+[![](https://skillicons.dev/icons?i=bootsrap,c,jquery,laravel,nodejs,php,py,react,redux,)]()
+
+
 <br/>
 
 ### Used Tools:
