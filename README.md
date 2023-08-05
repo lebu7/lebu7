@@ -68,5 +68,4 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lebu7&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p> -->
 
-![](./profile-3d-contrib/profile-gitblock.svg)
-ß
+<!-- ![](./profile-3d-contrib/profile-south-season-animate.svg) -->
