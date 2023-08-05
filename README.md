@@ -48,7 +48,7 @@
 [![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,atom,codepen,arduino,raspberrypi)]()
 
 
-<br />
+<br /> <br />
 
 ### Interests:
 
