@@ -41,7 +41,7 @@
 [![](https://skillicons.dev/icons?i=bootsrap,c,jquery,laravel,nodejs,php,py,react,redux,)]()
 
 
-<br/>
+
 
 ### Used Tools:
 
