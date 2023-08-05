@@ -37,14 +37,14 @@
 
 <!-- language -->
 
-[![](https://skillicons.dev/icons?i=html,css,bootsrap,js,jquery,mysql,react,redux,vue,nodejs,angular,php,laravel,c,java,Spring,py&perline=6)]()
+[![](https://skillicons.dev/icons?i=html,css,bootsrap,js,jquery,mysql,react,redux,vue,nodejs,angular,php,laravel,c,java,Spring,py&perline=8)]()
 
 
 
 
 ### Used Tools:
 
-[![](https://skillicons.dev/icons?i=git,github,vscode,atom,visualstudio,arduino,raspberry)]()
+[![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,atom,arduino,raspberrypi)]()
 
 
 <br />
