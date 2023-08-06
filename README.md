@@ -35,10 +35,9 @@
   <br />
 
 ### Familiar Tech Stack:
-<!-- coding boy -->
 <img width="40%" align="right" alt="Coding Boy" src="https://github.com/lebu7/Lebu/blob/main/coding.gif" />
 
-<!-- language -->
+
 
 [![](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,mysql,react,redux,vue,nodejs,angular,php,laravel,c,java,spring,py&perline=8)]()
 
