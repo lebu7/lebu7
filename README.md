@@ -1,4 +1,3 @@
-
 # Hi, Am <a href="https://lebu7.github.io/" target="_blank">Lebu Ayiga</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Full-Stack Web Developer, from Nairobi, Kenya.
@@ -45,7 +44,7 @@
 
 ### Used Tools:
 
-[![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,atom,codepen,arduino,raspberrypi&perline=8)]()
+[![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,atom,codepen,postgres,arduino,raspberrypi&perline=8)]()
 
 
 <br /> <br />
