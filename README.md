@@ -36,14 +36,14 @@
 
 
 
-[![](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,mysql,react,redux,vue,nodejs,nextjs,angular,php,laravel,c,java,spring,py&perline=8)]()
+[![](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,mysql,react,redux,vue,nodejs,nextjs,angular,php,laravel,c,java,spring,ts,py&perline=8)]()
 
 
 
 
 ### Used Tools:
 
-[![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,atom,codepen,postgres,gcp,aws,docker,babel,azure,arduino,raspberrypi&perline=8)]()
+[![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,atom,codepen,postgres,mongodb,gcp,aws,docker,babel,azure,npm,vercel,arduino,raspberrypi&perline=8)]()
 
 
 <br /> <br />
