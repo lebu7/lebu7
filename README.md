@@ -43,7 +43,7 @@
 
 ### Used Tools:
 
-[![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,atom,codepen,postgres,arduino,raspberrypi&perline=8)]()
+[![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,atom,codepen,postgres, and babel, azure,arduino,raspberrypi&perline=8)]()
 
 
 <br /> <br />
