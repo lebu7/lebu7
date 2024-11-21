@@ -26,7 +26,7 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 Goals: Make project and contribute to Open Source
 - ⚡ Fun fact: I love working out protoypes
-- 🔭 Checkout my portfolio: **[https://lebu7.github.io/](https://lebu7.github.io/)**
+- 🔭 Checkout my portfolio: **[Lebu Ayiga](https://lebuayiga.vercel.app/)**
 - 💼 See my experience over the years: **[Resume](https://drive.google.com/file/d/1siE5TzaPrGXXj3-6uAdBASYcOoPXM7a7/view?usp=drive_link)**
 
   <br />
