@@ -4,7 +4,7 @@
 ## I'm a Full-Stack Web Developer, from Nairobi, Kenya.
 
 <div align="left">
-<a href="https://lebu7.github.io/""><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-008000.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://lebuayiga.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-008000.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/lebu-ayiga-1b93261b6/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:lebu.a.7@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://twitter.com/Lebu_Ayiga"><img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
